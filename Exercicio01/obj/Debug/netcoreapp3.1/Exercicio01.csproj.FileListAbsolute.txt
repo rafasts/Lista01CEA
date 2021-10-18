@@ -1,0 +1,14 @@
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.exe
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.deps.json
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.json
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.runtimeconfig.dev.json
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.dll
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\bin\Debug\netcoreapp3.1\Exercicio01.pdb
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csproj.AssemblyReference.cache
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfoInputs.cache
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.AssemblyInfo.cs
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.dll
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.pdb
+C:\Repositorios\CeA\ListaDeExercicios01\Exercicio01\obj\Debug\netcoreapp3.1\Exercicio01.genruntimeconfig.cache

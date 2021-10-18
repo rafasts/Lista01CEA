@@ -1,0 +1,13 @@
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\bin\Debug\netcoreapp3.1\Execicio02.exe
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\bin\Debug\netcoreapp3.1\Execicio02.deps.json
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\bin\Debug\netcoreapp3.1\Execicio02.runtimeconfig.json
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\bin\Debug\netcoreapp3.1\Execicio02.runtimeconfig.dev.json
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\bin\Debug\netcoreapp3.1\Execicio02.dll
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\bin\Debug\netcoreapp3.1\Execicio02.pdb
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.AssemblyInfoInputs.cache
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.AssemblyInfo.cs
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.csproj.CoreCompileInputs.cache
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.dll
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.pdb
+C:\Repositorios\CeA\ListaDeExercicios01\Execicio02\obj\Debug\netcoreapp3.1\Execicio02.genruntimeconfig.cache
